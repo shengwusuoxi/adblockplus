@@ -1,1 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 202207250926
+! Title: custom filter list
+! Last modified: 25 Jul 2022 09:26 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/shengwusuoxi/adblockplus/
+!
+! Please report any unblocked adverts or problems
+!
+!-----------------------General advert blocking filters-----------------------!
 zhihu.com##header[role="banner"]
