@@ -6,3 +6,4 @@
 ! Homepage: https://github.com/shengwusuoxi/adblockplus
 !
 zhihu.com##div.PageHeader
+zhihu.com##footer.Footer
