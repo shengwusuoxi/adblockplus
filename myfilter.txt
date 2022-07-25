@@ -5,4 +5,4 @@
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/shengwusuoxi/adblockplus
 !
-zhihu.com##header[role="banner"]
+zhihu.com##.PageHeader
