@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: LukeTang's custom filter list
 ! Chinese supplement for the custom filter list
-! Last modified: %timestamp%
-! Expires: 4 days (update frequency)
+! Last modified: 25 Jul 2022 10:45 UTC
+! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/shengwusuoxi/adblockplus/
 !
 ! Please report any unblocked adverts or problems
