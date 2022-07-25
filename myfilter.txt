@@ -8,4 +8,5 @@
 ! Please report any unblocked adverts or problems
 !
 !-----------------------General advert blocking filters-----------------------!
-zhihu.com##header[role="banner"]
+.zhihu.com##header[role="banner"]
+
