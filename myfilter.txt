@@ -7,3 +7,4 @@
 !
 zhihu.com##div.PageHeader
 zhihu.com##footer.Footer
+! zhihu.com##header[role="banner"]
