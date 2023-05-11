@@ -10,3 +10,5 @@ zhihu.com##.Question-sideColumn
 zhihu.com##footer.Footer
 zhihu.com##.GlobalSideBar
 ! zhihu.com##header[role="banner"]
+
+m.weizhi.cc##header.bar-nav
